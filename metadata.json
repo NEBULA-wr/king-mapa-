@@ -1,0 +1,6 @@
+{
+  "name": "10 Emprendimientos de Mi Comunidad",
+  "description": "Explora de forma interactiva 10 emprendimientos locales en Santo Domingo, República Dominicana a través de un mapa satelital 3D inmersivo y videos en pantalla completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
